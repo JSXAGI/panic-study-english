@@ -1,0 +1,21 @@
+{
+  "name": "パニック英語学習アプリ",
+  "short_name": "パニック英語",
+  "description": "パニックを乗り越える英語学習アプリ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#183DB2",
+  "theme_color": "#183DB2",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
